@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AI Floating Two</string>
+    <string name="hint_prompt">Tanya apa saja…</string>
+    <string name="hint_url">https://…</string>
+    <string name="send">Kirim</string>
+    <string name="go">Buka</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_browser">Browser</string>
+    <string name="bubble_desc">Buka asisten</string>
+</resources>
